@@ -1,0 +1,1 @@
+Formulário de cadastro de itens feito por mim e dois colegas de faculdade. Contém alguns erros no código em si em relação ao desaparecimento das linhas da tabela ou malfunção dos botões. Não conseguimos colocar os dois ao mesmo tempo. Contudo, permanece o funcionamento do formulário se nada for feito em relação a isso.
